@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-04-08 17:19:31
+/* Smarty version 3.1.33, created on 2019-04-08 17:55:50
   from 'C:\OSPanel\domains\cryptopatriots.loc\templates\footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cab58734d2157_64129929',
+  'unifunc' => 'content_5cab60f6beeb15_90048854',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9249ccb1d974abae43722f61b39b48404ec6ff71' => 
     array (
       0 => 'C:\\OSPanel\\domains\\cryptopatriots.loc\\templates\\footer.tpl',
-      1 => 1554733170,
+      1 => 1554735349,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5cab58734d2157_64129929 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5cab60f6beeb15_90048854 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\OSPanel\\domains\\cryptopatriots.loc\\smarty\\libs\\plugins\\modifier.date_format.php','function'=>'smarty_modifier_date_format',),));
 ?>
 <div class="push"></div>

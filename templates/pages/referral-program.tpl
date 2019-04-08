@@ -1,1 +1,79 @@
-Hello referral-program
+<main>
+    <div class="main-content wide-content">
+        <div class="ref-info">
+            <div class="container">
+                <div class="row">
+                    <h1>Referral program</h1>
+                    <p><span>Criptopatriots Ltd.</span> wants to be the frontrunner of the crypto-space – plain and simple. We follow investment strategies we know will beat the market over the long-term providing value-added services to clients the world over.</p>
+
+                    <p>Bearing our ambitions in mind: to provide further support to clients – while supplementing your account with additional funds – we have designed a multi-tiered affiliate program for top-ranking investors. This allows both parties to earn bounties should an existing investor attract another user onto our platform.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="ref-info-2">
+            <div class="container">
+                <div class="row">
+                    <h4>Becoming an affiliate of our company is easy:</h4>
+                    <div class="ref-icon-1"><strong>pROMOUTE OUR PLATFORM</strong></div>
+                    <div class="ref-info-content">
+                        <ul>
+                            <li>Just sign up for an account at which point you’ll get your own affiliate link. You can find this in your control panel.</li>
+                            <li>Share the URL with whomever, or wherever, you want. If you're going to create an ad, find a template in the control
+                                panel to use.</li>
+
+                            <li>To review how many referrals you’ve made, check the ‘Your Referrals’ section for a live count.</li>
+
+                            <li>The best part? You can earn without making a deposit! You’ll receive a commission even if you don’t trade.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="ref-info-2 ref-info-3">
+            <div class="container">
+                <div class="row">
+                    <h4>See below for an outline of our program:</h4>
+                    <div class="ref-icon-2"><strong>aTTRACT CLIENTS & EARN</strong></div>
+                    <div class="ref-info-content">
+                        <p>If you attract a new client, you earn a commission the moment they place their first trade. When they deposit, you make 8% of the total deposit amount. If the new client attracts another user, you earn 3% on the new user’s deposits. At the final tier, you make 1%.</p>
+
+                        <p>You receive commissions the second they are applicable: watch as your balance grows while other users enjoy the benefits of our platform.</p>
+
+                        <p>Tell friends, family, everyone you know about our great platform. Place adverts; do whatever it takes – just make the most of your affiliate earning potential!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="ref-comission-2">
+            <div class="ref-comission-info">
+                <strong class="ref-comission-hd">REF.COMMISSION
+                    <span>Referral program is tiered in <strong>3</strong> levels</span></strong>
+                <strong class="ref-comission-percent">8<sup>%</sup> - 3<sup>%</sup> - 1<sup>%</sup></strong>
+            </div>
+            <div class="btn-group-7"><button type="button" class="btn-default btn-big btn-transp">signin</button></div>
+        </div>
+
+    </div>
+</main>
+
+<div class="protection protection-in-2 protection-in-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+                <a href="#" class="protection1 wow zoomIn"><img src="/img/symantec.png" alt=""></a>
+            </div>
+            <div class="col-sm-3">
+                <a href="#" class="protection2 wow zoomIn" data-wow-delay="0.2s"><img src="/img/ddos-guard.png" alt=""></a>
+            </div>
+            <div class="col-sm-3">
+                <a href="#" class="protection3 wow zoomIn" data-wow-delay="0.4s"><img src="/img/bitcoin1.png" alt=""></a>
+            </div>
+            <div class="col-sm-3">
+                <a href="#" class="protection4 wow zoomIn" data-wow-delay="0.6s"><img src="/img/bitcoin2.png" alt=""></a>
+            </div>
+        </div>
+    </div>
+</div>

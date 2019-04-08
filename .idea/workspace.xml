@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1feb87b-fba5-4877-9c48-0ed4e713fde5" name="Default Changelist" comment="" />
+    <list default="true" id="d1feb87b-fba5-4877-9c48-0ed4e713fde5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/payment_proofs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/referral_program.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/payment-proofs.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/payment-proofs.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/referral-program.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/referral-program.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates_c/72b098084b833f517fd310229503eb527db56970_0.file.payment-proofs.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates_c/72b098084b833f517fd310229503eb527db56970_0.file.payment-proofs.tpl.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +42,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/pages/referral-program.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="671">
+              <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -69,8 +84,6 @@
         <option value="$PROJECT_DIR$/configs/home.conf" />
         <option value="$PROJECT_DIR$/templates/about.php" />
         <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/templates/pages/payment-proofs.tpl" />
-        <option value="$PROJECT_DIR$/templates/pages/referral-program.tpl" />
         <option value="$PROJECT_DIR$/templates/index.tpl" />
         <option value="$PROJECT_DIR$/configs/page.conf" />
         <option value="$PROJECT_DIR$/templates/pages/contact.tpl" />
@@ -80,6 +93,10 @@
         <option value="$PROJECT_DIR$/templates/pages/help-center.tpl" />
         <option value="$PROJECT_DIR$/templates/pages/about.tpl" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/payment_proofs.html" />
+        <option value="$PROJECT_DIR$/templates/pages/payment-proofs.tpl" />
+        <option value="$PROJECT_DIR$/referral_program.html" />
+        <option value="$PROJECT_DIR$/templates/pages/referral-program.tpl" />
       </list>
     </option>
   </component>
@@ -164,23 +181,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554711019362</updated>
-      <workItem from="1554711024026" duration="19380000" />
+      <workItem from="1554711024026" duration="19652000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19380000" />
+    <option name="totallyTimeSpent" value="19652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32934928" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32934928" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32934928" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32934928" />
@@ -241,20 +259,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/payment-proofs.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/referral-program.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -342,10 +346,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/payment_proofs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="151" column="10" selection-end-line="151" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/payment-proofs.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="147" column="92" selection-start-line="147" selection-start-column="92" selection-end-line="147" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/referral_program.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="78" column="10" selection-end-line="78" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/referral-program.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
         </state>
       </provider>
     </entry>
