@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-04-08 17:52:50
+/* Smarty version 3.1.33, created on 2019-04-09 09:59:52
   from 'C:\OSPanel\domains\cryptopatriots.loc\templates\pages\payment-proofs.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cab604221d9f2_90679674',
+  'unifunc' => 'content_5cac42e8762529_79104191',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '72b098084b833f517fd310229503eb527db56970' => 
     array (
       0 => 'C:\\OSPanel\\domains\\cryptopatriots.loc\\templates\\pages\\payment-proofs.tpl',
-      1 => 1554735169,
+      1 => 1554791413,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5cab604221d9f2_90679674 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5cac42e8762529_79104191 (Smarty_Internal_Template $_smarty_tpl) {
 ?><main>
     <div class="main-content wide-content">
         <div class="text-center set-header">
@@ -153,24 +153,5 @@ function content_5cab604221d9f2_90679674 (Smarty_Internal_Template $_smarty_tpl)
         </div>
 
     </div>
-</main>
-
-<div class="protection protection-in-2">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-3">
-                <a href="#" class="protection1 wow zoomIn"><img src="/img/symantec.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection2 wow zoomIn" data-wow-delay="0.2s"><img src="/img/ddos-guard.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection3 wow zoomIn" data-wow-delay="0.4s"><img src="/img/bitcoin1.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection4 wow zoomIn" data-wow-delay="0.6s"><img src="/img/bitcoin2.png" alt=""></a>
-            </div>
-        </div>
-    </div>
-</div><?php }
+</main><?php }
 }

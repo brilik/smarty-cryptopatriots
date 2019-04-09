@@ -3,20 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d1feb87b-fba5-4877-9c48-0ed4e713fde5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/footer.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/templates/footer.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/about.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/about.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/contact.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/contact.tpl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/pages/help-center.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/help-center.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/home.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/home.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/payment-proofs.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/payment-proofs.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/referral-program.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/referral-program.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates_c/9249ccb1d974abae43722f61b39b48404ec6ff71_0.file.footer.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates_c/9249ccb1d974abae43722f61b39b48404ec6ff71_0.file.footer.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates_c/a3b56df10cd85720a62813b8845ce02e1e95b5aa_0.file.contact.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates_c/a3b56df10cd85720a62813b8845ce02e1e95b5aa_0.file.contact.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates_c/d64fea8a7972522e5ff2d281c8ddf8255d1aad2c_0.file.about.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates_c/d64fea8a7972522e5ff2d281c8ddf8255d1aad2c_0.file.about.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates_c/fb8c2bc284409a04e4ae26c29a53d7e52edc5fea_0.file.home.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates_c/fb8c2bc284409a04e4ae26c29a53d7e52edc5fea_0.file.home.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates_c/fe912329f32619a2db9da8337362a06c615d36b0_0.file.referral-program.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates_c/fe912329f32619a2db9da8337362a06c615d36b0_0.file.referral-program.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates_c/72b098084b833f517fd310229503eb527db56970_0.file.payment-proofs.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates_c/72b098084b833f517fd310229503eb527db56970_0.file.payment-proofs.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates_c/c6f9dd9977f2eef5a253d14110905071096dcc94_0.file.help-center.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates_c/c6f9dd9977f2eef5a253d14110905071096dcc94_0.file.help-center.tpl.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,17 +45,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+            <state relative-caret-position="722">
+              <caret line="127" column="13" selection-start-line="127" selection-start-column="13" selection-end-line="127" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/footer.tpl">
+        <entry file="file://$PROJECT_DIR$/templates/pages/help-center.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="68">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -105,10 +95,11 @@
         <option value="$PROJECT_DIR$/templates/pages/about.tpl" />
         <option value="$PROJECT_DIR$/templates/pages/referral-program.tpl" />
         <option value="$PROJECT_DIR$/templates/pages/payment-proofs.tpl" />
-        <option value="$PROJECT_DIR$/templates/pages/help-center.tpl" />
         <option value="$PROJECT_DIR$/templates/pages/contact.tpl" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/templates/footer.tpl" />
+        <option value="$PROJECT_DIR$/templates_c/c6f9dd9977f2eef5a253d14110905071096dcc94_0.file.help-center.tpl.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/templates/pages/help-center.tpl" />
       </list>
     </option>
   </component>
@@ -199,12 +190,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554711019362</updated>
       <workItem from="1554711024026" duration="20222000" />
-      <workItem from="1554789358575" duration="3447000" />
+      <workItem from="1554789358575" duration="7666000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23669000" />
+    <option name="totallyTimeSpent" value="27888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
@@ -329,13 +320,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/help-center.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="123" column="7" selection-start-line="123" selection-start-column="7" selection-end-line="123" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/pages/contact.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="603">
@@ -343,17 +327,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/templates/footer.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/footer.tpl">
+    <entry file="file://$PROJECT_DIR$/templates_c/c6f9dd9977f2eef5a253d14110905071096dcc94_0.file.help-center.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        <state relative-caret-position="235">
+          <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="127" column="13" selection-start-line="127" selection-start-column="13" selection-end-line="127" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/help-center.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
