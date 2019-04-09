@@ -1,3 +1,32 @@
+{* Classes need for protection section *}
+{if $url === '/about/'}{$class = 'protection-in'}{/if}
+{if $url === '/referral-program/'}{$class = 'protection-in-2 protection-in-3'}{/if}
+{if $url === '/payment-proofs/' || $url === '/help-center/'}{$class = 'protection-in-2'}{/if}
+{if $url === '/contact/'}{$class = 'protection-in-2'}
+    <div class="map-bg">
+        <div class="map" id="map"></div>
+        <div class="map_label"><span>COMPANY ADDRESS:</span> 35 Piccadilly, London, United Kingdom, W1J 0DW</div>
+    </div>
+{/if}
+
+{if $protection}{$count=0}
+    <div class="protection {$class}">
+        <div class="container">
+            <div class="row">
+                {foreach $protection as $item}
+                    <div class="col-sm-3">
+                        <a href="{$item.url}" class="protection1 wow zoomIn"
+                           {if $count !== 0}data-wow-delay="0.{$sum}s"{/if}>
+                            <img src="{$item.src}" alt="{$item.altz}">
+                        </a>
+                    </div>
+                    {assign var="count" value=$count+1}{$sum = $sum + 2}
+                {/foreach}
+            </div>
+        </div>
+    </div>
+{/if}
+
 <div class="push"></div>
 </div>
 

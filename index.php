@@ -6,7 +6,7 @@ $smarty->debugging = false;
 $smarty->caching = false;
 $smarty->cache_lifetime = 120;
 
-// controller menu~
+// controller menu
 $smarty->assign("menu", array(
     array(
         "name" => "Home",
@@ -46,6 +46,27 @@ $smarty->assign("social", array(
     ), array(
         "class" => "yt",
         "url" => "https://youtube.com"
+    )
+));
+
+// controller protection section
+$smarty->assign("protection", array(
+    array(
+        "src" => "/img/symantec.png",
+        "alt" => "protection",
+        "url" => "#"
+    ), array(
+        "src" => "/img/ddos-guard.png",
+        "alt" => "protection",
+        "url" => "#"
+    ), array(
+        "src" => "/img/bitcoin1.png",
+        "alt" => "protection",
+        "url" => "#"
+    ), array(
+        "src" => "/img/bitcoin2.png",
+        "alt" => "protection",
+        "url" => "#"
     )
 ));
 

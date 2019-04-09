@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-04-08 17:55:50
+/* Smarty version 3.1.33, created on 2019-04-09 09:56:38
   from 'C:\OSPanel\domains\cryptopatriots.loc\templates\footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cab60f6beeb15_90048854',
+  'unifunc' => 'content_5cac4226bb4714_17375579',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9249ccb1d974abae43722f61b39b48404ec6ff71' => 
     array (
       0 => 'C:\\OSPanel\\domains\\cryptopatriots.loc\\templates\\footer.tpl',
-      1 => 1554735349,
+      1 => 1554792993,
       2 => 'file',
     ),
   ),
@@ -20,9 +20,57 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5cab60f6beeb15_90048854 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5cac4226bb4714_17375579 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\OSPanel\\domains\\cryptopatriots.loc\\smarty\\libs\\plugins\\modifier.date_format.php','function'=>'smarty_modifier_date_format',),));
+if ($_smarty_tpl->tpl_vars['url']->value === '/about/') {
+$_smarty_tpl->_assignInScope('class', 'protection-in');
+}
+if ($_smarty_tpl->tpl_vars['url']->value === '/referral-program/') {
+$_smarty_tpl->_assignInScope('class', 'protection-in-2 protection-in-3');
+}
+if ($_smarty_tpl->tpl_vars['url']->value === '/payment-proofs/' || $_smarty_tpl->tpl_vars['url']->value === '/help-center/') {
+$_smarty_tpl->_assignInScope('class', 'protection-in-2');
+}
+if ($_smarty_tpl->tpl_vars['url']->value === '/contact/') {
+$_smarty_tpl->_assignInScope('class', 'protection-in-2');?>
+    <div class="map-bg">
+        <div class="map" id="map"></div>
+        <div class="map_label"><span>COMPANY ADDRESS:</span> 35 Piccadilly, London, United Kingdom, W1J 0DW</div>
+    </div>
+<?php }?>
+
+<?php if ($_smarty_tpl->tpl_vars['protection']->value) {
+$_smarty_tpl->_assignInScope('count', 0);?>
+    <div class="protection <?php echo $_smarty_tpl->tpl_vars['class']->value;?>
+">
+        <div class="container">
+            <div class="row">
+                <?php
+$_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['protection']->value, 'item');
+if ($_from !== null) {
+foreach ($_from as $_smarty_tpl->tpl_vars['item']->value) {
 ?>
+                    <div class="col-sm-3">
+                        <a href="<?php echo $_smarty_tpl->tpl_vars['item']->value['url'];?>
+" class="protection1 wow zoomIn"
+                           <?php if ($_smarty_tpl->tpl_vars['count']->value !== 0) {?>data-wow-delay="0.<?php echo $_smarty_tpl->tpl_vars['sum']->value;?>
+s"<?php }?>>
+                            <img src="<?php echo $_smarty_tpl->tpl_vars['item']->value['src'];?>
+" alt="<?php echo $_smarty_tpl->tpl_vars['item']->value['altz'];?>
+">
+                        </a>
+                    </div>
+                    <?php $_smarty_tpl->_assignInScope('count', $_smarty_tpl->tpl_vars['count']->value+1);
+$_smarty_tpl->_assignInScope('sum', $_smarty_tpl->tpl_vars['sum']->value+2);?>
+                <?php
+}
+}
+$_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
+            </div>
+        </div>
+    </div>
+<?php }?>
+
 <div class="push"></div>
 </div>
 

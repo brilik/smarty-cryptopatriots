@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-04-08 17:55:13
+/* Smarty version 3.1.33, created on 2019-04-09 09:31:37
   from 'C:\OSPanel\domains\cryptopatriots.loc\templates\pages\contact.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cab60d1a87085_05473943',
+  'unifunc' => 'content_5cac3c49e7c4e3_61417688',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'a3b56df10cd85720a62813b8845ce02e1e95b5aa' => 
     array (
       0 => 'C:\\OSPanel\\domains\\cryptopatriots.loc\\templates\\pages\\contact.tpl',
-      1 => 1554735313,
+      1 => 1554791481,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5cab60d1a87085_05473943 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5cac3c49e7c4e3_61417688 (Smarty_Internal_Template $_smarty_tpl) {
 ?><main>
     <div class="main-content wide-content">
         <div class="text-center set-header">
@@ -72,29 +72,5 @@ function content_5cab60d1a87085_05473943 (Smarty_Internal_Template $_smarty_tpl)
         </div>
 
     </div>
-</main>
-
-<div class="map-bg">
-    <div class="map" id="map"></div>
-    <div class="map_label"><span>COMPANY ADDRESS:</span> 35 Piccadilly, London, United Kingdom, W1J 0DW</div>
-</div>
-
-<div class="protection protection-in-2">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-3">
-                <a href="#" class="protection1 wow zoomIn"><img src="/img/symantec.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection2 wow zoomIn" data-wow-delay="0.2s"><img src="/img/ddos-guard.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection3 wow zoomIn" data-wow-delay="0.4s"><img src="/img/bitcoin1.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection4 wow zoomIn" data-wow-delay="0.6s"><img src="/img/bitcoin2.png" alt=""></a>
-            </div>
-        </div>
-    </div>
-</div><?php }
+</main><?php }
 }

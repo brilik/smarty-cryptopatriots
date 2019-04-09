@@ -1,4 +1,3 @@
-
 <div class="top-banner" id="top-banner">
     <div class="banner1">
         <div class="container">
@@ -122,7 +121,15 @@
     <div class="row about-us-row wow zoomIn">
         <div class="about-top-left"></div>
         <div class="about-top-right"></div>
-        <p>CryptopatriotsLimited молодая, быстроразвивающаяся компания на рынке добычи криптовалют, <br>включающая в себя более 180 сотрудников и не имеющая конкретных привязок к какой либо стране. Наша компания занимается майнингом одной из самых устойчивых и быстрорастущих валют –биткоин. Crypto- patriotsLimited начала свою деятельность с запуска двух ферм в Исландии в начале 2015 года и с тех пор <br>мы неумолимо развиваемся, открывая все новые и новые фермы в разных странах мира. Все фермы мы строим в основном в странах с низкой стоимостью электроэнергии, что является самой важной частью в майнинге, так как размер стоимости киловата в час в конкретной стране определяет итоговую чистую прибыль от добычи одного биткойна. Наши фермы располагаются на территории таких стран как США, Канада, Швейцария, Китай, Исландия и некоторых других странах.
+        <p>CryptopatriotsLimited молодая, быстроразвивающаяся компания на рынке добычи криптовалют, <br>включающая в
+            себя более 180 сотрудников и не имеющая конкретных привязок к какой либо стране. Наша компания занимается
+            майнингом одной из самых устойчивых и быстрорастущих валют –биткоин. Crypto- patriotsLimited начала свою
+            деятельность с запуска двух ферм в Исландии в начале 2015 года и с тех пор <br>мы неумолимо развиваемся,
+            открывая все новые и новые фермы в разных странах мира. Все фермы мы строим в основном в странах с низкой
+            стоимостью электроэнергии, что является самой важной частью в майнинге, так как размер стоимости киловата в
+            час в конкретной стране определяет итоговую чистую прибыль от добычи одного биткойна. Наши фермы
+            располагаются на территории таких стран как США, Канада, Швейцария, Китай, Исландия и некоторых других
+            странах.
         </p>
         <div class="btn-wrap">
             <button type="button" class="btn-default">Read More</button>
@@ -232,7 +239,9 @@
                     <div class="col-xs-6"><img src="img/news_image_1.jpg?ver1.2" alt=""></div>
                     <div class="col-xs-6 news-content">
                         <h3>Lorem ipsum dolor sit amet, consecte- tur adipiscing elit.</h3>
-                        <p>CryptopatriotsLimited молодая, быстроразвивающаяся компания на рынке добычи криптовалют, включающая в себя более 180 сотрудников и не имеющая конкретных привязок к какой либо стране...</p>
+                        <p>CryptopatriotsLimited молодая, быстроразвивающаяся компания на рынке добычи криптовалют,
+                            включающая в себя более 180 сотрудников и не имеющая конкретных привязок к какой либо
+                            стране...</p>
                         <button type="button" class="btn-default">Read More</button>
                     </div>
                 </div>
@@ -240,7 +249,8 @@
                     <div class="col-xs-6"><img src="img/news_image_1.jpg?ver1.2" alt=""></div>
                     <div class="col-xs-6 news-content">
                         <h3>Lorem ipsum dolor sit amet, consecte- tur adipiscing elit.</h3>
-                        <p>CryptopatriotsLimited молодая, быстроразвивающаяся компания на рынке добычи криптовалют, включающая в себя более 180 сотрудников</p>
+                        <p>CryptopatriotsLimited молодая, быстроразвивающаяся компания на рынке добычи криптовалют,
+                            включающая в себя более 180 сотрудников</p>
                         <button type="button" class="btn-default">Read More</button>
                     </div>
                 </div>
@@ -259,14 +269,18 @@
             <div class="col-sm-2 wow bounceInLeft" data-wow-delay="0.9s">
                 <h4>Powerful secure dedicated server.</h4>
                 <div class="features-icon features-icon-1"></div>
-                <div class="features-text">We use powerful secure dedicated server for work 24/7 website of our com- pany with using protec- <br>tion by Symantec.
-                    <p class="tooltip">We use powerful secure dedicated server for work 24/7 website of our company with using protection by Symantec.</p></div>
+                <div class="features-text">We use powerful secure dedicated server for work 24/7 website of our com-
+                    pany with using protec- <br>tion by Symantec.
+                    <p class="tooltip">We use powerful secure dedicated server for work 24/7 website of our company with
+                        using protection by Symantec.</p></div>
             </div>
             <div class="col-sm-2 wow bounceInLeft" data-wow-delay="0.7s">
                 <h4>All transactions are full secure.</h4>
                 <div class="features-icon features-icon-2"></div>
-                <div class="features-text">All transaction on the website are conducted <br>with 256-bit connection using EV SSL certificate with the Greenbar issued <br>by Symantec.
-                    <p class="tooltip">All transaction on the website are conducted with 256-bit connection using EV SSL certificate with the Greenbar issued by Symantec.</p></div>
+                <div class="features-text">All transaction on the website are conducted <br>with 256-bit connection
+                    using EV SSL certificate with the Greenbar issued <br>by Symantec.
+                    <p class="tooltip">All transaction on the website are conducted with 256-bit connection using EV SSL
+                        certificate with the Greenbar issued by Symantec.</p></div>
             </div>
             <div class="col-sm-2 wow bounceInLeft" data-wow-delay="0.4s">
                 <h4>Strong DDos pro- tection.</h4>
@@ -277,8 +291,10 @@
             <div class="col-sm-2 wow bounceInLeft" data-wow-delay="0.3s">
                 <h4>Instant withdrawals.</h4>
                 <div class="features-icon features-icon-4"></div>
-                <div class="features-text">We provide 24/7 instant withdrawals with a mini- mum withdrawal amount that started from 0.0003 BTC.
-                    <p class="tooltip">We provide 24/7 instant withdrawals with a minimum withdrawal amount that started from 0.0003 BTC.</p></div>
+                <div class="features-text">We provide 24/7 instant withdrawals with a mini- mum withdrawal amount that
+                    started from 0.0003 BTC.
+                    <p class="tooltip">We provide 24/7 instant withdrawals with a minimum withdrawal amount that started
+                        from 0.0003 BTC.</p></div>
             </div>
             <div class="col-sm-2 wow bounceInLeft" data-wow-delay="0.1s">
                 <h4>Our support chat is always online.</h4>
@@ -299,22 +315,3 @@
         </div>
     </div>
 </section>
-
-<div class="protection">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-3">
-                <a href="#" class="protection1 wow zoomIn"><img src="img/symantec.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection2 wow zoomIn" data-wow-delay="0.2s"><img src="img/ddos-guard.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection3 wow zoomIn" data-wow-delay="0.4s"><img src="img/bitcoin1.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection4 wow zoomIn" data-wow-delay="0.6s"><img src="img/bitcoin2.png" alt=""></a>
-            </div>
-        </div>
-    </div>
-</div>

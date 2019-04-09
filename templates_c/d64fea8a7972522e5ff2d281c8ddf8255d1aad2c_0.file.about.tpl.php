@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-04-08 17:10:21
+/* Smarty version 3.1.33, created on 2019-04-09 09:24:15
   from 'C:\OSPanel\domains\cryptopatriots.loc\templates\pages\about.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cab564d8dbc40_05396011',
+  'unifunc' => 'content_5cac3a8f0e0ee9_33365749',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'd64fea8a7972522e5ff2d281c8ddf8255d1aad2c' => 
     array (
       0 => 'C:\\OSPanel\\domains\\cryptopatriots.loc\\templates\\pages\\about.tpl',
-      1 => 1554732621,
+      1 => 1554791053,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5cab564d8dbc40_05396011 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5cac3a8f0e0ee9_33365749 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="content-header about-header">
     <h1 class="wow zoomIn">About Us Company</h1>
 </div>
@@ -108,24 +108,5 @@ COMPANY #12312334</span>
             </div>
         </div>
     </div>
-</section>
-
-<div class="protection protection-in">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-3">
-                <a href="#" class="protection1 wow zoomIn"><img src="img/symantec.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection2 wow zoomIn" data-wow-delay="0.2s"><img src="img/ddos-guard.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection3 wow zoomIn" data-wow-delay="0.4s"><img src="img/bitcoin1.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection4 wow zoomIn" data-wow-delay="0.6s"><img src="img/bitcoin2.png" alt=""></a>
-            </div>
-        </div>
-    </div>
-</div><?php }
+</section><?php }
 }

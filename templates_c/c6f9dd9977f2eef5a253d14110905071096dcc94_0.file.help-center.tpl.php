@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-04-08 17:30:06
+/* Smarty version 3.1.33, created on 2019-04-09 09:57:26
   from 'C:\OSPanel\domains\cryptopatriots.loc\templates\pages\help-center.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cab5aeeaa4144_09913410',
+  'unifunc' => 'content_5cac42565fb828_02401772',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'c6f9dd9977f2eef5a253d14110905071096dcc94' => 
     array (
       0 => 'C:\\OSPanel\\domains\\cryptopatriots.loc\\templates\\pages\\help-center.tpl',
-      1 => 1554733805,
+      1 => 1554791413,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5cab5aeeaa4144_09913410 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5cac42565fb828_02401772 (Smarty_Internal_Template $_smarty_tpl) {
 ?><main>
     <div class="main-content wide-content">
         <div class="text-center set-header">
@@ -144,24 +144,5 @@ function content_5cab5aeeaa4144_09913410 (Smarty_Internal_Template $_smarty_tpl)
         </div>
 
     </div>
-</main>
-
-<div class="protection protection-in-2">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-3">
-                <a href="#" class="protection1 wow zoomIn"><img src="/img/symantec.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection2 wow zoomIn" data-wow-delay="0.2s"><img src="/img/ddos-guard.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection3 wow zoomIn" data-wow-delay="0.4s"><img src="/img/bitcoin1.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection4 wow zoomIn" data-wow-delay="0.6s"><img src="/img/bitcoin2.png" alt=""></a>
-            </div>
-        </div>
-    </div>
-</div><?php }
+</main><?php }
 }

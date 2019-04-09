@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-04-08 17:54:13
+/* Smarty version 3.1.33, created on 2019-04-09 09:27:40
   from 'C:\OSPanel\domains\cryptopatriots.loc\templates\pages\referral-program.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cab6095e2a239_65417617',
+  'unifunc' => 'content_5cac3b5c57b096_36449077',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'fe912329f32619a2db9da8337362a06c615d36b0' => 
     array (
       0 => 'C:\\OSPanel\\domains\\cryptopatriots.loc\\templates\\pages\\referral-program.tpl',
-      1 => 1554735253,
+      1 => 1554791243,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5cab6095e2a239_65417617 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5cac3b5c57b096_36449077 (Smarty_Internal_Template $_smarty_tpl) {
 ?><main>
     <div class="main-content wide-content">
         <div class="ref-info">
@@ -80,24 +80,5 @@ function content_5cab6095e2a239_65417617 (Smarty_Internal_Template $_smarty_tpl)
         </div>
 
     </div>
-</main>
-
-<div class="protection protection-in-2 protection-in-3">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-3">
-                <a href="#" class="protection1 wow zoomIn"><img src="/img/symantec.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection2 wow zoomIn" data-wow-delay="0.2s"><img src="/img/ddos-guard.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection3 wow zoomIn" data-wow-delay="0.4s"><img src="/img/bitcoin1.png" alt=""></a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#" class="protection4 wow zoomIn" data-wow-delay="0.6s"><img src="/img/bitcoin2.png" alt=""></a>
-            </div>
-        </div>
-    </div>
-</div><?php }
+</main><?php }
 }
